@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kariim2k
+- 👋 Hi, I’m Kareem
 - 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on idk yet, anyone can take me under his/her wings...
 - 📫 How to reach me gmail: kariimonimisi@gmail.com, whatsapp: +2349030686453
 - 😄 Pronouns: HIM
